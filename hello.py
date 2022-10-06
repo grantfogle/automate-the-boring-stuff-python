@@ -1,3 +1,14 @@
+def hello(name):
+    print('Howdy, ' + name);
+
+hello('Grant')
+hello('GDOGG')
+
+# import random
+# import pyperclip
+
+# print(random.randint(1,69))
+
 # password = 'swordfisssh'
 
 # if password == 'swordfish':
@@ -18,16 +29,16 @@
 #     name = input()
 # print('Thank you')
 
-for i in range(5):
-    print ('Grant five times ' + str(i))
+# for i in range(5):
+#     print ('Grant five times ' + str(i))
 
-total = 0
-for num in range(101):
-    total = total + num
+# total = 0
+# for num in range(101):
+#     total = total + num
 
-print(total)
+# print(total)
 
-i = 0
-while i <= 5:
-    print (str(i))
-    i = i + 1
+# i = 0
+# while i <= 5:
+#     print (str(i))
+#     i = i + 1
