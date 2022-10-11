@@ -1,3 +1,5 @@
+#! /usr/bin/env python3
+
 print('Hello there MR. Bob\'s Dad\nHow are you?\n\tI\'m fine')
 
 romeoAndJuliet = """Romeo and Juliet is a tragedy 
